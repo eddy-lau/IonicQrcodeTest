@@ -1,0 +1,7 @@
+{
+  "name": "QrcodeTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
